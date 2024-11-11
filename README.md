@@ -8,6 +8,11 @@ Model Training: Machine learning models, such as logistic regression, SVM, or de
 Evaluation: The model's accuracy, precision, recall, and F1 score are evaluated to measure performance.
 ## Technologies Used
 Python: Main programming language.
+
 NLP Libraries: NLTK, spaCy, or transformers for text processing and analysis.
+
 Machine Learning Libraries: Scikit-learn, TensorFlow, or PyTorch.
+
 Jupyter Notebook: For experimentation and visualization of the process.
+
+Machine Learning model: Logistic Regression. Trasnform Models can also be used.
